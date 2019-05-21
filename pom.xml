@@ -5,7 +5,7 @@
 
     <groupId>com.test</groupId>
     <artifactId>hello-test</artifactId>
-    <version>1.1.${build.number}</version>
+    <version>1.1.${BUILD_NUMBER}</version>
 
 <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
